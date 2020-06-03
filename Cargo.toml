@@ -1,0 +1,18 @@
+[package]
+name = "adv_rust"
+version = "0.1.0"
+authors = ["yiqing"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3"
+
+tracing  = "0.1"
+log =  "0.4"
+mac = "*"
+
+chrono = "0.4"
+
+seahorse = "0.7"
