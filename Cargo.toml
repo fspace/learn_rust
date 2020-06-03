@@ -16,3 +16,5 @@ mac = "*"
 chrono = "0.4"
 
 seahorse = "0.7"
+
+redis = "0.16"
